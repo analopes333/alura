@@ -1,0 +1,69 @@
+:root{ 
+--braco-principal:#FFFFFF;
+--cinza-secundario:#c0c0c0;
+--botao-azul:#167bf7;
+--cor-e-fundo:#00030c;
+--fonte-principal:'inter';
+}
+body{
+background-color:var(--cor-de-fundo);
+color:var(--branco-principal);
+font-family:var(--fonte-principal) ;
+font-size:16px;
+font-weight:400px;
+}
+*{
+margin:0;
+pading:0;
+}
+.principal{
+    background-image:url("img/background.png") ;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.containe{
+height: 100vh;
+display: grid;
+grid-template-columns: 50% 50%
+}
+
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    3
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    ;
